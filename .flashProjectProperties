@@ -1,0 +1,27 @@
+<projectDescription>
+  <id>1292278292642</id>
+  <name>SmartMouth Solver</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///C|/Users/Rick/AppData/Local/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///C|/Users/Rick/AppData/Local/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp/>
+  <rootURI>file:///E|/flashdev/SmartMouth Solver/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false"/>
+  <recentFiles editable="false">
+    <uri label="Smartmouth.as">file:///E|/flashdev/SmartMouth Solver/com/frigidfish/Smartmouth.as</uri>
+    <uri label="SetupButton.as">file:///E|/flashdev/SmartMouth Solver/com/frigidfish/SetupButton.as</uri>
+    <uri label="LargeButton.xml">file:///E|/flashdev/SmartMouth Solver/Smartmouth/LIBRARY/com/frigidfish/LargeButton.xml</uri>
+    <uri label="LargeButton.as">file:///E|/flashdev/SmartMouth Solver/com/frigidfish/LargeButton.as</uri>
+    <uri label="Print.as">file:///E|/flashdev/SmartMouth Solver/com/frigidfish/Print.as</uri>
+    <uri label="Sort.as">file:///E|/flashdev/SmartMouth Solver/com/frigidfish/Sort.as</uri>
+    <uri label="ScrabbleDictionary.as">file:///E|/flashdev/SmartMouth Solver/com/frigidfish/ScrabbleDictionary.as</uri>
+    <uri label="Smartmouth.xfl">file:///E|/flashdev/SmartMouth Solver/Smartmouth/Smartmouth.xfl</uri>
+    <uri label="Smartmouth.fla">file:///E|/flashdev/SmartMouth Solver/Smartmouth.fla</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>

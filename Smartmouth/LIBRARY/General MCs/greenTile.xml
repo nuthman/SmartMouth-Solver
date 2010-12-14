@@ -1,0 +1,107 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="General MCs/greenTile" itemID="4d05f8e4-0000023b" sourceLibraryItemHRef="Symbol 1" lastModified="1292237028">
+  <timeline>
+    <DOMTimeline name="greenTile">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMGroup selected="true">
+                      <members>
+                        <DOMShape selected="true" isDrawingObject="true">
+                          <matrix>
+                            <Matrix tx="-21.85" ty="-222.5"/>
+                          </matrix>
+                          <fills>
+                            <FillStyle index="1">
+                              <LinearGradient>
+                                <matrix>
+                                  <Matrix a="0.0526580810546875" b="-0.0526580810546875" c="-0.0526580810546875" d="-0.0526580810546875" tx="64" ty="282.45"/>
+                                </matrix>
+                                <GradientEntry color="#60A650" ratio="0"/>
+                                <GradientEntry color="#63A750" ratio="0.184313725490196"/>
+                                <GradientEntry color="#6BAA51" ratio="0.301960784313725"/>
+                                <GradientEntry color="#79B155" ratio="0.4"/>
+                                <GradientEntry color="#8BBB5B" ratio="0.490196078431373"/>
+                                <GradientEntry color="#A3C966" ratio="0.572549019607843"/>
+                                <GradientEntry color="#B2D56E" ratio="0.611764705882353"/>
+                                <GradientEntry color="#9DCD61" ratio="0.658823529411765"/>
+                                <GradientEntry color="#8BC758" ratio="0.709803921568627"/>
+                                <GradientEntry color="#7FC352" ratio="0.772549019607843"/>
+                                <GradientEntry color="#77C150" ratio="0.850980392156863"/>
+                                <GradientEntry color="#74C04F" ratio="0.988235294117647"/>
+                              </LinearGradient>
+                            </FillStyle>
+                          </fills>
+                          <edges>
+                            <Edge fillStyle1="1" edges="!2117 4977|2114 6323!2114 6323[2112 6549 2056 6603!2056 6603[2009 6648 1811 6650!1811 6650|739 6649!739 6649[550 6646 496 6591!496 6591[437 6530 437 6319!437 6319|440 4972!440 4972[441 4756 596 4603!596 4603[751 4449 970 4450!970 4450
+|1589 4451!1589 4451[1809 4453 1963 4606!1963 4606[2117 4760 2117 4977"/>
+                            <Edge cubics="!2114 6323(;2111,6636 2064,6648 1811,6650q2114 6323Q2112 6549q2056 6603Q2009 6648q1811 6650);"/>
+                            <Edge cubics="!1811 6650(;1811,6650 739,6649 739,6649q1811 6650 739 6649);"/>
+                            <Edge cubics="!739 6649(;493,6645 437,6607 437,6319q739 6649Q550 6646q496 6591Q437 6530q437 6319);"/>
+                            <Edge cubics="!437 6319(;437,6319 440,4972 440,4972q437 6319 440 4972);"/>
+                            <Edge cubics="!440 4972(;441,4684 678,4449 970,4450q440 4972Q441 4756q596 4603Q751 4449q970 4450)970,4450;"/>
+                            <Edge cubics="!970 4450(;970,4450 1589,4451 1589,4451q970 4450 1589 4451);"/>
+                            <Edge cubics="!1589 4451(;1882,4453 2117,4687 2117,4977q1589 4451Q1809 4453q1963 4606Q2117 4760q2117 4977);"/>
+                            <Edge cubics="!2117 4977(;2117,4977 2114,6323 2114,6323q2117 4977 2114 6323);"/>
+                          </edges>
+                        </DOMShape>
+                        <DOMShape selected="true" isDrawingObject="true">
+                          <matrix>
+                            <Matrix tx="-21.85" ty="-222.5"/>
+                          </matrix>
+                          <fills>
+                            <FillStyle index="1">
+                              <SolidColor color="#47A453"/>
+                            </FillStyle>
+                          </fills>
+                          <edges>
+                            <Edge fillStyle0="1" edges="
+!1963 4606[1809 4453 1589 4451!1589 4451|968 4450!968 4450[750 4450 595 4603!595 4603[441 4756 440 4972!440 4972|437 6319!437 6319[437 6530 496 6591!496 6591[550 6646 739 6649!739 6649|1811 6650!1811 6650[2009 6648 2056 6603!2056 6603
+[2112 6549 2114 6323!2114 6323|2117 4977!2117 4977[2117 4760 1963 4606!2037 4976|2034 6322!2034 6322[2032 6515 2000 6546!2000 6546[1985 6561 1933 6566!1933 6566[1893 6570 1811 6570!1811 6570|739 6569!739 6569[583 6565 553 6535!553 6535
+[517 6498 517 6319!517 6319|520 4972!520 4972[520 4790 651 4660!651 4660[783 4530 968 4530!968 4530|1589 4531!1589 4531[1774 4532 1906 4662!1906 4662[2037 4793 2037 4976"/>
+                            <Edge cubics="!968 4450(;677,4450 441,4685 440,4972q968 4450Q750 4450q595 4603Q441 4756q440 4972);"/>
+                            <Edge cubics="!440 4972(;440,4972 437,6319 437,6319q440 4972 437 6319);"/>
+                            <Edge cubics="!437 6319(;437,6607 493,6645 739,6649q437 6319Q437 6530q496 6591Q550 6646q739 6649);"/>
+                            <Edge cubics="!739 6649(;739,6649 1811,6650 1811,6650q739 6649 1811 6650)1811,6650;"/>
+                            <Edge cubics="!1811 6650(;2064,6648 2111,6636 2114,6323q1811 6650Q2009 6648q2056 6603Q2112 6549q2114 6323);"/>
+                            <Edge cubics="!2114 6323(;2114,6323 2117,4977 2117,4977q2114 6323 2117 4977);"/>
+                            <Edge cubics="!2117 4977(;2117,4687 1882,4453 1589,4451q2117 4977Q2117 4760q1963 4606Q1809 4453q1589 4451)1589,4451;"/>
+                            <Edge cubics="!1589 4531(;1836,4532 2037,4732 2037,4976q1589 4531Q1774 4532q1906 4662Q2037 4793q2037 4976)2037,4976;"/>
+                            <Edge cubics="!2037 4976(;2037,4976 2034,6322 2034,6322q2037 4976 2034 6322);"/>
+                            <Edge cubics="!2034 6322(;2033,6412 2028,6519 2000,6546q2034 6322Q2032 6515q2000 6546);"/>
+                            <Edge cubics="!2000 6546(;1978,6567 1905,6570 1811,6570q2000 6546Q1985 6561q1933 6566Q1893 6570q1811 6570);"/>
+                            <Edge cubics="!1811 6570(;1811,6570 739,6569 739,6569q1811 6570 739 6569);"/>
+                            <Edge cubics="!739 6569(739,6569;658,6567 580,6562 553,6535q739 6569Q583 6565q553 6535)553,6535;"/>
+                            <Edge cubics="!553 6535(553,6535;521,6502 517,6402 517,6319q553 6535Q517 6498q517 6319);"/>
+                            <Edge cubics="!517 6319(;517,6319 520,4972 520,4972q517 6319 520 4972);"/>
+                            <Edge cubics="!520 4972(;520,4729 721,4530 968,4530q520 4972Q520 4790q651 4660Q783 4530q968 4530);"/>
+                            <Edge cubics="!1589 4451(1589,4451;1589,4451 968,4450 968,4450q1589 4451 968 4450);"/>
+                            <Edge cubics="!968 4530(;968,4530 1589,4531 1589,4531q968 4530 1589 4531);"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                    <DOMSymbolInstance libraryItemName="General MCs/shiner 1" name="" selected="true" blendMode="layer">
+                      <matrix>
+                        <Matrix tx="1.7" ty="2.25"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point x="40.3" y="29.35"/>
+                      </transformationPoint>
+                      <color>
+                        <Color alphaMultiplier="0.41015625"/>
+                      </color>
+                    </DOMSymbolInstance>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

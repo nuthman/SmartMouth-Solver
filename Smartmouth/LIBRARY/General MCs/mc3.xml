@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="General MCs/mc3" itemID="4d069aa9-00000237" lastModified="1292278441">
+  <timeline>
+    <DOMTimeline name="mc3">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!3663 349[3663 389 3091 413!3091 413[2576 435 1832 435!1832 435[1087 435 572 413!572 413[0 389 0 349!0 349|0 205!0 205[0 120 59 60!59 60[118 0 201 0!201 0|3462 0!3462 0[3545 0 3604 60!3604 60[3663 120 3663 205!3663 205|3663 349"/>
+                    <Edge cubics="!3663 349(;3663,463 0,463 0,349q3663 349Q3663 389q3091 413Q2576 435q1832 435Q1087 435q572 413Q0 389q0 349);"/>
+                    <Edge cubics="!0 349(;0,349 0,205 0,205q0 349 0 205);"/>
+                    <Edge cubics="!0 205(;0,92 90,0 201,0q0 205Q0 120q59 60Q118 0q201 0);"/>
+                    <Edge cubics="!201 0(;201,0 3462,0 3462,0q201 0 3462 0);"/>
+                    <Edge cubics="!3462 0(;3573,0 3663,92 3663,205q3462 0Q3545 0q3604 60Q3663 120q3663 205);"/>
+                    <Edge cubics="!3663 205(;3663,205 3663,349 3663,349q3663 205 3663 349);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="General MCs/glowShape" itemID="4d069b45-0000023f" lastModified="1292278597">
+  <timeline>
+    <DOMTimeline name="glowShape">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!4263 349[4263 389 3597 413!3597 413[2997 435 2132 435!2132 435[1266 435 666 413!666 413[0 389 0 349!0 349|0 205!0 205[0 120 58 60!58 60[117 0 199 0!199 0|4064 0!4064 0[4146 0 4205 60!4205 60[4263 120 4263 205!4263 205|4263 349"/>
+                    <Edge cubics="!4263 349(;4263,463 0,463 0,349q4263 349Q4263 389q3597 413Q2997 435q2132 435Q1266 435q666 413Q0 389q0 349);"/>
+                    <Edge cubics="!0 349(;0,349 0,205 0,205q0 349 0 205);"/>
+                    <Edge cubics="!0 205(;0,92 89,0 199,0q0 205Q0 120q58 60Q117 0q199 0);"/>
+                    <Edge cubics="!199 0(;199,0 4064,0 4064,0q199 0 4064 0);"/>
+                    <Edge cubics="!4064 0(;4174,0 4263,92 4263,205q4064 0Q4146 0q4205 60Q4263 120q4263 205);"/>
+                    <Edge cubics="!4263 205(;4263,205 4263,349 4263,349q4263 205 4263 349);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

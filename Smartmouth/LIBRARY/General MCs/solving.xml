@@ -1,0 +1,70 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="General MCs/solving" itemID="4d05d5bb-0000049f" sourceLibraryItemHRef="Symbol 1" lastModified="1292228057">
+  <timeline>
+    <DOMTimeline name="solving">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMShape selected="true">
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#393769"/>
+                        </FillStyle>
+                        <FillStyle index="2">
+                          <RadialGradient>
+                            <matrix>
+                              <Matrix a="0.0817108154296875" d="-0.080902099609375" tx="92.5" ty="20"/>
+                            </matrix>
+                            <GradientEntry color="#728CC2" ratio="0"/>
+                            <GradientEntry color="#3B4083" ratio="1"/>
+                          </RadialGradient>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!3641 58S2[3700 117 3700 200!3700 200|3700 600!3700 600[3700 683 3641 741!3641 741[3581 800 3497 800!3497 800|202 800!202 800[118 800 59 741!59 741[0 683 0 600!0 600|0 200!0 200[0 117 59 58!59 58[118 0 202 0!202 0|3497 0!3497 0[3581 0
+ 3641 58"/>
+                        <Edge fillStyle0="1" fillStyle1="2" edges="
+!3598 101S3[3640 142 3640 200!3640 200|3640 600!3640 600[3640 658 3598 699!3598 699[3556 740 3497 740!3497 740|202 740!202 740[144 740 102 699!102 699[60 658 60 600!60 600|60 200!60 200[60 142 102 101!102 101[143 60 202 60!202 60|3497
+ 60!3497 60[3556 60 3598 101"/>
+                        <Edge cubics="!3700 600(;3700,710 3609,800 3497,800q3700 600Q3700 683q3641 741Q3581 800q3497 800);"/>
+                        <Edge cubics="!3497 800(;3497,800 202,800 202,800q3497 800 202 800);"/>
+                        <Edge cubics="!202 800(;90,800 0,710 0,600q202 800Q118 800q59 741Q0 683q0 600);"/>
+                        <Edge cubics="!0 600(;0,600 0,200 0,200q0 600 0 200);"/>
+                        <Edge cubics="!0 200(;0,89 90,0 202,0q0 200Q0 117q59 58Q118 0q202 0);"/>
+                        <Edge cubics="!202 0(;202,0 3497,0 3497,0q202 0 3497 0);"/>
+                        <Edge cubics="!3497 0(;3609,0 3700,89 3700,200q3497 0Q3581 0q3641 58Q3700 117q3700 200);"/>
+                        <Edge cubics="!3700 200(;3700,200 3700,600 3700,600q3700 200 3700 600);"/>
+                        <Edge cubics="!3497 60(;3575,60 3640,122 3640,200q3497 60Q3556 60q3598 101Q3640 142q3640 200);"/>
+                        <Edge cubics="!3640 200(;3640,200 3640,600 3640,600q3640 200 3640 600);"/>
+                        <Edge cubics="!3640 600(;3640,677 3575,740 3497,740q3640 600Q3640 658q3598 699Q3556 740q3497 740);"/>
+                        <Edge cubics="!3497 740(;3497,740 202,740 202,740q3497 740 202 740);"/>
+                        <Edge cubics="!202 740(202,740;124,740 60,677 60,600q202 740Q144 740q102 699Q60 658q60 600);"/>
+                        <Edge cubics="!60 600(;60,600 60,200 60,200q60 600 60 200);"/>
+                        <Edge cubics="!60 200(;60,122 124,60 202,60q60 200Q60 142q102 101Q143 60q202 60);"/>
+                        <Edge cubics="!202 60(;202,60 3497,60 3497,60q202 60 3497 60);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMSymbolInstance libraryItemName="General MCs/mc3" name="" blendMode="layer" centerPoint3DX="92.55" centerPoint3DY="12.35">
+                      <matrix>
+                        <Matrix tx="1" ty="1.5"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point x="91.55" y="10.85"/>
+                      </transformationPoint>
+                      <color>
+                        <Color alphaMultiplier="0.2109375"/>
+                      </color>
+                    </DOMSymbolInstance>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

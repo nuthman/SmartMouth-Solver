@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="General MCs/mc2" itemID="4d069a9d-00000235" lastModified="1292278429">
+  <timeline>
+    <DOMTimeline name="mc2">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1790 247[1790 288 895 288!895 288[0 288 0 247!0 247|0 98!0 98[0 57 28 29!28 29[57 0 97 0!97 0|1692 0!1692 0[1733 0 1761 29!1761 29[1790 58 1790 98!1790 98|1790 247"/>
+                    <Edge cubics="!1790 247(;1790,301 0,301 0,247q1790 247Q1790 288q895 288Q0 288q0 247);"/>
+                    <Edge cubics="!0 247(;0,247 0,98 0,98q0 247 0 98);"/>
+                    <Edge cubics="!0 98(;0,44 43,0 97,0q0 98Q0 57q28 29Q57 0q97 0);"/>
+                    <Edge cubics="!97 0(;97,0 1692,0 1692,0q97 0 1692 0);"/>
+                    <Edge cubics="!1692 0(;1746,0 1790,44 1790,98q1692 0Q1733 0q1761 29Q1790 58q1790 98);"/>
+                    <Edge cubics="!1790 98(;1790,98 1790,247 1790,247q1790 98 1790 247);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

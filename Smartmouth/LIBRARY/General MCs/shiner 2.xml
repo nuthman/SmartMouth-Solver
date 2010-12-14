@@ -1,0 +1,42 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="General MCs/shiner 2" itemID="4d05c166-000003f3" lastModified="1292222822">
+  <timeline>
+    <DOMTimeline name="shiner 2">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0.0351409912109375" b="-0.0351409912109375" c="-0.0351409912109375" d="-0.0351409912109375" tx="40.4" ty="32.2"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" alpha="0.266666666666667" ratio="0"/>
+                        <GradientEntry color="#FFFFFF" alpha="0.509803921568627" ratio="0.443137254901961"/>
+                        <GradientEntry color="#FFFFFF" alpha="0.705882352941177" ratio="0.52156862745098"/>
+                        <GradientEntry color="#FFFFFF" alpha="0.470588235294118" ratio="0.588235294117647"/>
+                        <GradientEntry color="#FFFFFF" alpha="0.258823529411765" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1609 960[1608 1066 1356 1125!1356 1125[1131 1178 803 1174!803 1174[478 1171 251 1116!251 1116[0 1054 0 956!0 956|3 500!3 500[3 293 152 146!152 146[301 -1 511 0!511 0|1106 1!1106 1[1316 2 1464 149!1464 149[1612 296 1612 504!1612 504|1609
+ 960"/>
+                    <Edge cubics="!1609 960(;1606,1260 -1,1233 0,956q1609 960Q1608 1066q1356 1125Q1131 1178q803 1174Q478 1171q251 1116Q0 1054q0 956);"/>
+                    <Edge cubics="!0 956(;0,956 3,500 3,500q0 956 3 500);"/>
+                    <Edge cubics="!3 500(;3,224 231,-1 511,0q3 500Q3 293q152 146Q301 -1q511 0);"/>
+                    <Edge cubics="!511 0(;511,0 1106,1 1106,1q511 0 1106 1);"/>
+                    <Edge cubics="!1106 1(;1386,2 1612,227 1612,504q1106 1Q1316 2q1464 149Q1612 296q1612 504);"/>
+                    <Edge cubics="!1612 504(;1612,504 1609,960 1609,960q1612 504 1609 960);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
