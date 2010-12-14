@@ -9,6 +9,8 @@
 	import flash.text.TextFormat;
 	import fl.controls.TextInput;	
 	import flash.text.Font;
+	import flash.events.KeyboardEvent;
+	import flash.events.FocusEvent;
 	
 	public class Smartmouth extends MovieClip {
 
@@ -23,13 +25,23 @@
 			
 			setupButtons();				
 			setTextFormats();
+			stage.focus = inputLetters;
 			
 			search.addEventListener(MouseEvent.MOUSE_DOWN, mouseUp, false,0,true);
 			search.addEventListener(MouseEvent.MOUSE_UP, searchFirstLast, false,0,true);
 			search.addEventListener(MouseEvent.MOUSE_UP, searchInOrder, false,0,true);
 			search.addEventListener(MouseEvent.ROLL_OVER, rollOver, false,0,true);
 			search.addEventListener(MouseEvent.ROLL_OUT, rollOut, false,0,true);
+			
+			stage.addEventListener(KeyboardEvent.KEY_DOWN, function(){blinker.visible=false;});
+			inputLetters.addEventListener(MouseEvent.CLICK,onFocusIn,false,0,true);
 		}
+		
+		
+		function onFocusIn(event:MouseEvent):void {		
+    		event.target.setSelection(0, event.target.text.length);	
+		}
+
 		
 		private function setTextFormats():void{
 			

@@ -111,6 +111,7 @@
           <DOMBitmapItem name="Bitmaps/paragraph" itemID="4d069b29-0000023d" sourceExternalFilepath=".\LIBRARY\Bitmaps\paragraph" sourceLastImported="1292278569" originalCompressionType="lossless" quality="50" href="Bitmaps\paragraph.\LIBRARY\Bitmaps\paragraph" bitmapDataHRef="M 3 1292238644.dat" frameRight="3740" frameBottom="3920"/>
      </media>
      <symbols>
+          <Include href="Blinker.xml" loadImmediate="false"/>
           <Include href="com/frigidfish/LargeButton.xml"/>
           <Include href="com/frigidfish/SmallButton.xml"/>
           <Include href="Component Assets/_private/Component_avatar.xml" loadImmediate="false"/>
@@ -176,11 +177,11 @@
      <timelines>
           <DOMTimeline name="Scene 1">
                <layers>
-                    <DOMLayer name="Solving cover" color="#9933CC" autoNamed="false" visible="false">
+                    <DOMLayer name="Solving cover" color="#9933CC" autoNamed="false">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="General MCs/SolvingDisable" name="solving" selected="true" centerPoint3DX="114.35" centerPoint3DY="366.1">
+                                        <DOMSymbolInstance libraryItemName="General MCs/SolvingDisable" name="solving" centerPoint3DX="114.35" centerPoint3DY="366.1">
                                              <matrix>
                                                   <Matrix tx="21.85" ty="346.1"/>
                                              </matrix>
@@ -273,7 +274,7 @@
                                                   <DropShadowFilter distance="3" quality="3" strength="0.5"/>
                                              </filters>
                                         </DOMSymbolInstance>
-                                        <DOMComponentInstance libraryItemName="Component Assets/TextInput" name="inputLetters" centerPoint3DX="121.35" centerPoint3DY="271.9" uniqueID="2">
+                                        <DOMComponentInstance libraryItemName="Component Assets/TextInput" name="inputLetters" selected="true" centerPoint3DX="121.35" centerPoint3DY="271.9" uniqueID="2">
                                              <matrix>
                                                   <Matrix a="2.7208251953125" d="4.59111022949219" tx="33.35" ty="221.35"/>
                                              </matrix>
@@ -390,6 +391,22 @@
    </property>
 ]]></parametersAsXML>
                                         </DOMComponentInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 4" color="#FF4FFF">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Blinker" name="blinker" centerPoint3DX="55.25" centerPoint3DY="265.75">
+                                             <matrix>
+                                                  <Matrix tx="21.85" ty="222.5"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="33.4" y="43.25"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
                                    </elements>
                               </DOMFrame>
                          </frames>
@@ -809,26 +826,26 @@
      </extendedSwatchLists>
      <PrinterSettings/>
      <publishHistory>
+          <PublishItem publishSize="780214" publishTime="1292368245"/>
+          <PublishItem publishSize="780216" publishTime="1292368197"/>
+          <PublishItem publishSize="49517" publishTime="1292368098"/>
+          <PublishItem publishSize="780151" publishTime="1292367789"/>
+          <PublishItem publishSize="780150" publishTime="1292367774"/>
+          <PublishItem publishSize="780152" publishTime="1292367762"/>
+          <PublishItem publishSize="779969" publishTime="1292367611"/>
+          <PublishItem publishSize="49367" publishTime="1292367596"/>
+          <PublishItem publishSize="49365" publishTime="1292367581"/>
+          <PublishItem publishSize="779938" publishTime="1292367450"/>
+          <PublishItem publishSize="779934" publishTime="1292367432"/>
+          <PublishItem publishSize="779820" publishTime="1292367347"/>
+          <PublishItem publishSize="779818" publishTime="1292367269"/>
+          <PublishItem publishSize="779814" publishTime="1292367150"/>
+          <PublishItem publishSize="779821" publishTime="1292367118"/>
+          <PublishItem publishSize="779821" publishTime="1292367105"/>
+          <PublishItem publishSize="779811" publishTime="1292286494"/>
+          <PublishItem publishSize="779814" publishTime="1292286429"/>
           <PublishItem publishSize="779814" publishTime="1292286415"/>
           <PublishItem publishSize="57496" publishTime="1292286297"/>
-          <PublishItem publishSize="827946" publishTime="1292286253"/>
-          <PublishItem publishSize="827629" publishTime="1292286011"/>
-          <PublishItem publishSize="827655" publishTime="1292284986"/>
-          <PublishItem publishSize="827587" publishTime="1292284897"/>
-          <PublishItem publishSize="827585" publishTime="1292284865"/>
-          <PublishItem publishSize="827663" publishTime="1292284830"/>
-          <PublishItem publishSize="827704" publishTime="1292284708"/>
-          <PublishItem publishSize="827653" publishTime="1292284238"/>
-          <PublishItem publishSize="827628" publishTime="1292284104"/>
-          <PublishItem publishSize="827689" publishTime="1292284070"/>
-          <PublishItem publishSize="827682" publishTime="1292283832"/>
-          <PublishItem publishSize="57168" publishTime="1292283819"/>
-          <PublishItem publishSize="57170" publishTime="1292283795"/>
-          <PublishItem publishSize="57168" publishTime="1292283039"/>
-          <PublishItem publishSize="827604" publishTime="1292283026"/>
-          <PublishItem publishSize="827527" publishTime="1292282952"/>
-          <PublishItem publishSize="827576" publishTime="1292282883"/>
-          <PublishItem publishSize="827577" publishTime="1292282750"/>
      </publishHistory>
      <swcCache>
           <Swc hashKey="kfuaIecnz3BPM/B8Awo4b." href="wdafcdas4t.swc">
