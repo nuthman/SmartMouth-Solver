@@ -3,4 +3,12 @@ Rick Nuthman
 SmartMouth Solver
 
 Allows user to enter 2 letters.
-Spits out winning words
+Spits out winning words in two categories:
+
+Letters in Order - 
+If user supplies 'RE', a few of the winning words would be REGISTER,  ERODE, EERIE
+Basically, all words that contain RE anywhere in the word, in that order.
+
+Bookend Words - 
+All words that start and end with the supplied letters (in their given order)
+for example RE: RIDE, RAKE, RECIPE
