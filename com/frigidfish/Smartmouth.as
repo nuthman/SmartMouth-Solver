@@ -15,11 +15,11 @@
 	public class Smartmouth extends MovieClip {
 
 		public var inputLetters:TextInput;
-		public var word:Array 					= new Array();		
-		public var bookendWords:Array 			= new Array();
-		public var lettersInOrderWords:Array 	= new Array();
+		public var word:Array = new Array();		
+		public var bookendWords:Array = new Array();
+		public var lettersInOrderWords:Array = new Array();
 		
-		public var invalid:String 				= "---NONE---";
+		public var invalid:String = "---NONE---";
 
 		public function Smartmouth() {			
 			
@@ -45,18 +45,18 @@
 		
 		private function setTextFormats():void{
 			
-			var ms:Monospace 		= new Monospace();			
+			var ms:Monospace = new Monospace();			
 			
-			var tf:TextFormat 		= new TextFormat();
-			tf.size 				= 94;				
-			tf.bold 				= true;
-			tf.letterSpacing 		= 45;
-			tf.font 				= ms.fontName;			
-			tf.align 				= "left";									
+			var tf:TextFormat = new TextFormat();
+			tf.size = 94;				
+			tf.bold = true;
+			tf.letterSpacing = 45;
+			tf.font = ms.fontName;			
+			tf.align = "left";									
 			
-			var listTF:TextFormat 	= new TextFormat();
-			listTF.font 			= ms.fontName;
-			listTF.letterSpacing 	= 40;
+			var listTF:TextFormat = new TextFormat();
+			listTF.font = ms.fontName;
+			listTF.letterSpacing = 40;
 			
 			inputLetters.setStyle("textFormat", tf);			
 			firstLastWords.setStyle("textFormat", listTF);
@@ -68,12 +68,12 @@
 		
 		private function setupButtons():void{
 			
-			solving.visible 		= false;			
-			solving.mouseChildren 	= false;
-			solving.mouseEnabled 	= false;			
-			search.mouseChildren 	= false;
-			search.buttonMode 		= true;
-			search.useHandCursor 	= true;
+			solving.visible = false;			
+			solving.mouseChildren = false;
+			solving.mouseEnabled = false;			
+			search.mouseChildren = false;
+			search.buttonMode = true;
+			search.useHandCursor = true;
 			search.stop();
 			
 			SetupButton.add(sortAlphaLIO,"Alphabetically",MouseEvent.MOUSE_DOWN);
